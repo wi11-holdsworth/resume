@@ -73,10 +73,12 @@ cv:
       - bullet: International Mathematics Modelling Competition (IMMC) 2021 participant
       - bullet: Bronze JMSS diploma recognising extra-curricular involvement
     skills:
-      - label: Programming
-        details: Python, Rust, Typescript/Javascript, Kotlin/Java, Nix, C, Shell Script, SQL, MATLAB
+      - label: Languages
+        details: Python, Typescript/JavaScript, Kotlin/Java, PHP, Rust, C, SQL, Shell Script, Nix, MATLAB
+      - label: Frameworks/Libraries
+        details: ReactJS, Drupal, ktor
       - label: Developer Tools
-        details: Git, GitHub, GitLab, JUnit, pytest, Gradle, Docker, Trello
+        details: PostgreSQL, MySQL, Git, JUnit, pytest, GitHub, GitLab, Docker
 design:
   theme: engineeringresumes
   page:
